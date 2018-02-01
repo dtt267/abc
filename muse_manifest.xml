@@ -1,0 +1,246 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tctd.hrc.com.vn" resolutions="1x" timestamp="1517485232974">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="488387485" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="309720918" ref="index"/>
+    <file name="index.css" crc="3901888693" ref="index"/>
+    <file name="nomq_index.css" crc="489728239" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u1292.php" crc="72678066" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u6993-11.png" crc="4024861329" ref="index"/>
+    <file name="tạp chí tuyển dụng -2 001-crop-u7450.jpg" crc="362722555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="tạp chí tuyển dụng -2 004-crop-u7683.jpg" crc="3974354674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 010-crop-u7747.jpg" crc="524074605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 032-crop-u7811.jpg" crc="381146570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u8193.png" crc="3822961083" ref="index"/>
+    <file name="u8193-r.png" crc="77467254" ref="index"/>
+    <file name="u8218-4.png" crc="3899478204" ref="index"/>
+    <file name="sach.png" crc="407331157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7997.png" crc="4249445223" ref="index"/>
+    <file name="u7997-r.png" crc="3975877273" ref="index"/>
+    <file name="u8049.png" crc="4145886507" ref="index"/>
+    <file name="u8049-r.png" crc="276537955" ref="index"/>
+    <file name="hrc_white_logo.png" crc="165119099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tctd trắng.png" crc="4049244138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1404-4.png" crc="4184589520" ref="index"/>
+    <file name="u1293.png" crc="4182533407" ref="index"/>
+    <file name="u1293-r.png" crc="3777639741" ref="index"/>
+    <file name="u1293-fs.png" crc="4182533407" ref="index"/>
+    <file name="stack-crop-u6819.png" crc="149032675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6920-4.png" crc="286551038" ref="index"/>
+    <file name="u6943.png" crc="3822961083" ref="index"/>
+    <file name="u6943-r.png" crc="77467254" ref="index"/>
+    <file name="u7875-6.png" crc="59403420" ref="index"/>
+    <file name="u8225-6.png" crc="3775027884" ref="index"/>
+    <file name="hrc_green_logo.png" crc="4247833795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1423-4.png" crc="297480180" ref="index"/>
+    <file name="u1410-4.png" crc="484262626" ref="index"/>
+    <file name="facebook.png" crc="115838903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="official logo.png" crc="533050835" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 001-crop-u74502.jpg" crc="3923987602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 004-crop-u76832.jpg" crc="4067220036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 010-crop-u77472.jpg" crc="4061522634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 032-crop-u78112.jpg" crc="160518627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stack.png" crc="172956122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1401-6.png" crc="488681985" ref="index"/>
+    <file name="u1404-42.png" crc="474105866" ref="index"/>
+    <file name="u12932.png" crc="4182533407" ref="index"/>
+    <file name="u1293-r2.png" crc="3777639741" ref="index"/>
+    <file name="u1293-fs2.png" crc="4182533407" ref="index"/>
+    <file name="u6920-42.png" crc="95230066" ref="index"/>
+    <file name="u69432.png" crc="39689735" ref="index"/>
+    <file name="u6943-r2.png" crc="3960451221" ref="index"/>
+    <file name="u6993-112.png" crc="3858430402" ref="index"/>
+    <file name="u7875-62.png" crc="416725726" ref="index"/>
+    <file name="u79972.png" crc="4159696346" ref="index"/>
+    <file name="u7997-r2.png" crc="528103755" ref="index"/>
+    <file name="u80492.png" crc="4003433461" ref="index"/>
+    <file name="u8049-r2.png" crc="4082367966" ref="index"/>
+    <file name="u81932.png" crc="39689735" ref="index"/>
+    <file name="u8193-r2.png" crc="3960451221" ref="index"/>
+    <file name="u8225-62.png" crc="137719623" ref="index"/>
+    <file name="u8218-42.png" crc="494095242" ref="index"/>
+    <file name="u8225-63.png" crc="3995157817" ref="index"/>
+    <file name="tạp chí tuyển dụng -2 001-crop-u74503.jpg" crc="10890569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 004-crop-u76833.jpg" crc="17051181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 010-crop-u77473.jpg" crc="4115583572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 032-crop-u78113.jpg" crc="250993297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stack685x514.png" crc="4025376465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6920-43.png" crc="351410962" ref="index"/>
+    <file name="u69433.png" crc="317513132" ref="index"/>
+    <file name="u6943-r3.png" crc="338616582" ref="index"/>
+    <file name="u6993-113.png" crc="3945378286" ref="index"/>
+    <file name="u7875-63.png" crc="318339739" ref="index"/>
+    <file name="u79973.png" crc="4190173291" ref="index"/>
+    <file name="u7997-r3.png" crc="238445919" ref="index"/>
+    <file name="u80493.png" crc="88106659" ref="index"/>
+    <file name="u8049-r3.png" crc="3882883068" ref="index"/>
+    <file name="u81933.png" crc="317513132" ref="index"/>
+    <file name="u8193-r3.png" crc="338616582" ref="index"/>
+    <file name="sach610x356.png" crc="56145264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8218-43.png" crc="4201697078" ref="index"/>
+    <file name="u1404-43.png" crc="3984992318" ref="index"/>
+    <file name="u12933.png" crc="4182533407" ref="index"/>
+    <file name="u1293-r3.png" crc="3777639741" ref="index"/>
+    <file name="u1293-fs3.png" crc="4182533407" ref="index"/>
+    <file name="u1401-62.png" crc="375528305" ref="index"/>
+    <file name="u8225-64.png" crc="3767558233" ref="index"/>
+    <file name="tạp chí tuyển dụng -2 001-crop-u74504.jpg" crc="4052347388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 004-crop-u76834.jpg" crc="3989953494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 010-crop-u77474.jpg" crc="4205768520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 032-crop-u78114.jpg" crc="299383683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stack621x465.png" crc="348044397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sach553x323.png" crc="359212797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12934.png" crc="4182533407" ref="index"/>
+    <file name="u1293-r4.png" crc="3777639741" ref="index"/>
+    <file name="u1293-fs4.png" crc="4182533407" ref="index"/>
+    <file name="u6920-44.png" crc="4001116330" ref="index"/>
+    <file name="u69434.png" crc="225865744" ref="index"/>
+    <file name="u6943-r4.png" crc="4062821628" ref="index"/>
+    <file name="u6993-114.png" crc="3869241898" ref="index"/>
+    <file name="u7875-64.png" crc="138196508" ref="index"/>
+    <file name="u79974.png" crc="4292445904" ref="index"/>
+    <file name="u7997-r4.png" crc="3895259241" ref="index"/>
+    <file name="u80494.png" crc="164330997" ref="index"/>
+    <file name="u8049-r4.png" crc="4032552029" ref="index"/>
+    <file name="u81934.png" crc="225865744" ref="index"/>
+    <file name="u8193-r4.png" crc="4062821628" ref="index"/>
+    <file name="u8218-44.png" crc="3997915821" ref="index"/>
+    <file name="u1401-63.png" crc="273369063" ref="index"/>
+    <file name="u1404-44.png" crc="184140510" ref="index"/>
+    <file name="hrc_green_logo-crop-u1413.png" crc="383659998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 001-crop-u74505.jpg" crc="4024773025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 004-crop-u76835.jpg" crc="298317599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 010-crop-u77475.jpg" crc="116177966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tạp chí tuyển dụng -2 032-crop-u78115.jpg" crc="3986104561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stack530x397.png" crc="3997447834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sach472x275.png" crc="3923436164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12935.png" crc="4182533407" ref="index"/>
+    <file name="u1293-r5.png" crc="3777639741" ref="index"/>
+    <file name="u1293-fs5.png" crc="4182533407" ref="index"/>
+    <file name="u6920-45.png" crc="4018793666" ref="index"/>
+    <file name="u69435.png" crc="3966107817" ref="index"/>
+    <file name="u6943-r5.png" crc="3963310230" ref="index"/>
+    <file name="u6993-115.png" crc="4177771310" ref="index"/>
+    <file name="u7875-65.png" crc="181445248" ref="index"/>
+    <file name="u79975.png" crc="30697288" ref="index"/>
+    <file name="u7997-r5.png" crc="4042401188" ref="index"/>
+    <file name="u80495.png" crc="460517141" ref="index"/>
+    <file name="u8049-r5.png" crc="4121878477" ref="index"/>
+    <file name="u81935.png" crc="3966107817" ref="index"/>
+    <file name="u8193-r5.png" crc="3963310230" ref="index"/>
+    <file name="u8225-65.png" crc="378774897" ref="index"/>
+    <file name="u8218-45.png" crc="3920758451" ref="index"/>
+    <file name="u1401-64.png" crc="3847972514" ref="index"/>
+    <file name="u1404-45.png" crc="496613674" ref="index"/>
+  </folder>
+  <file name="index.html" crc="440254428" seo="true" mt="1517484656476" redirect="true"/>
+</manifest>
