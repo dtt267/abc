@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tctd.hrc.com.vn" resolutions="1x" timestamp="1517731304482">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tctd.hrc.com.vn" resolutions="1x" timestamp="1517736240349">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3947560730" ref="check-mail:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="236682732" ref="check-mail:index"/>
-    <file name="check-mail.css" crc="532442130" ref="check-mail"/>
-    <file name="nomq_check-mail.css" crc="84305101" ref="check-mail"/>
-    <file name="index.css" crc="3979278053" ref="index"/>
-    <file name="nomq_index.css" crc="4052977990" ref="index"/>
+    <file name="master_a-master.css" crc="3994692214" ref="check-mail:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3979656884" ref="check-mail:index"/>
+    <file name="check-mail.css" crc="174031472" ref="check-mail"/>
+    <file name="nomq_check-mail.css" crc="4154613002" ref="check-mail"/>
+    <file name="index.css" crc="4129055958" ref="index"/>
+    <file name="nomq_index.css" crc="4091921506" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:check-mail"/>
@@ -40,19 +40,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="tctd trắng.png" crc="4049244138" seo="true" ref="index:check-mail">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="check-mail" alt=""/>
-      <caption webpage="check-mail" alt=""/>
-      <caption webpage="check-mail" alt=""/>
-      <caption webpage="check-mail" alt=""/>
-    </file>
-    <file name="u1293.png" crc="306730250" ref="index"/>
-    <file name="u1293-r.png" crc="3777639741" ref="index"/>
-    <file name="u1293-fs.png" crc="306730250" ref="index"/>
     <file name="white hrc.png" crc="3899285252" seo="true" ref="index:check-mail">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -65,6 +52,21 @@
       <caption webpage="check-mail" alt=""/>
       <caption webpage="check-mail" alt=""/>
     </file>
+    <file name="white tctd.png" crc="409348592" seo="true" ref="index:check-mail">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="check-mail" alt=""/>
+      <caption webpage="check-mail" alt=""/>
+      <caption webpage="check-mail" alt=""/>
+      <caption webpage="check-mail" alt=""/>
+      <caption webpage="check-mail" alt=""/>
+    </file>
+    <file name="u1293.png" crc="306730250" ref="index"/>
+    <file name="u1293-r.png" crc="3777639741" ref="index"/>
+    <file name="u1293-fs.png" crc="306730250" ref="index"/>
     <file name="stack-crop-u6819.png" crc="149032675" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -127,10 +129,6 @@
     <file name="stack685x514.png" crc="4025376465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tctd trắng-crop-u6764.png" crc="3823790967" seo="true" ref="index:check-mail">
-      <caption webpage="index" alt=""/>
-      <caption webpage="check-mail" alt=""/>
-    </file>
     <file name="tạp chí tuyển dụng -2 001-crop-u74503.jpg" crc="10890569" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -192,6 +190,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3939233942" seo="true" mt="1517731242246" redirect="true"/>
-  <file name="check-mail.html" crc="180381530" seo="true" mt="1517731242246" redirect="true"/>
+  <file name="index.html" crc="434903819" seo="true" mt="1517736200291" redirect="true"/>
+  <file name="check-mail.html" crc="244419873" seo="true" mt="1517736200291" redirect="true"/>
 </manifest>

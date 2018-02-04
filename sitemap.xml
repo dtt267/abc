@@ -18,10 +18,10 @@
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20032-crop-u7811.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/tctd%20tr%E1%BA%AFng.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/white%20hrc.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/white%20hrc.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/white%20tctd.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/stack-crop-u6819.png</image:loc>
@@ -55,9 +55,6 @@
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/stack685x514.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/tctd%20tr%E1%BA%AFng-crop-u6764.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20001-crop-u74503.jpg</image:loc>
@@ -117,10 +114,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/tctd%20tr%E1%BA%AFng.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/white%20hrc.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/white%20hrc.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/white%20tctd.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/facebook.png</image:loc>
@@ -130,9 +127,6 @@
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/logo-hrc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/tctd%20tr%E1%BA%AFng-crop-u6764.png</image:loc>
     </image:image>
   </url>
 </urlset>
