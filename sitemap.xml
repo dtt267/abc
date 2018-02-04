@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tctd.hrc.com.vn/index.html</loc>
-    <lastmod>2018-02-01</lastmod>
+    <lastmod>2018-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -18,25 +18,28 @@
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20032-crop-u7811.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/sach.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/hrc_white_logo.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/tctd%20tr%E1%BA%AFng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/logo-hrc%20tr%E1%BA%AFng.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/stack-crop-u6819.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/hrc_green_logo.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/sach.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/facebook.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/official%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/logo-hrc.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/stack.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20001-crop-u74502.jpg</image:loc>
@@ -51,7 +54,10 @@
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20032-crop-u78112.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/stack.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/stack685x514.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/tctd%20tr%E1%BA%AFng-crop-u6764.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20001-crop-u74503.jpg</image:loc>
@@ -66,10 +72,10 @@
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20032-crop-u78113.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/stack685x514.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/sach400x234.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/sach610x356.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/stack621x465.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20001-crop-u74504.jpg</image:loc>
@@ -84,13 +90,7 @@
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20032-crop-u78114.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/stack621x465.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/sach553x323.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/hrc_green_logo-crop-u1413.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/sach370x216.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tctd.hrc.com.vn/images/t%E1%BA%A1p%20ch%C3%AD%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20-2%20001-crop-u74505.jpg</image:loc>
@@ -108,7 +108,31 @@
       <image:loc>http://tctd.hrc.com.vn/images/stack530x397.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tctd.hrc.com.vn/images/sach472x275.png</image:loc>
+      <image:loc>http://tctd.hrc.com.vn/images/sach289x169.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tctd.hrc.com.vn/check-mail.html</loc>
+    <lastmod>2018-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/tctd%20tr%E1%BA%AFng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/logo-hrc%20tr%E1%BA%AFng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/official%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/logo-hrc.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tctd.hrc.com.vn/images/tctd%20tr%E1%BA%AFng-crop-u6764.png</image:loc>
     </image:image>
   </url>
 </urlset>
