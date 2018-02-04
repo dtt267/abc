@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tctd.hrc.com.vn" resolutions="1x" timestamp="1517681532072">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tctd.hrc.com.vn" resolutions="1x" timestamp="1517725174855">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="101309838" ref="check-mail:index"/>
@@ -192,6 +192,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4020819892" seo="true" mt="1517681500936" redirect="true"/>
-  <file name="check-mail.html" crc="4041169902" seo="true" mt="1517681459499" redirect="true"/>
+  <file name="index.html" crc="3844224048" seo="true" mt="1517724935624" redirect="true"/>
+  <file name="check-mail.html" crc="494206915" seo="true" mt="1517724935624" redirect="true"/>
 </manifest>
