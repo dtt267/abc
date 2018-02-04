@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tctd.hrc.com.vn" resolutions="1x" timestamp="1517740216554">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tctd.hrc.com.vn" resolutions="1x" timestamp="1517754325992">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3994692214" ref="check-mail:index"/>
     <file name="nomq_preview_master_a-master.css" crc="3979656884" ref="check-mail:index"/>
     <file name="check-mail.css" crc="174031472" ref="check-mail"/>
     <file name="nomq_check-mail.css" crc="4154613002" ref="check-mail"/>
-    <file name="index.css" crc="3820285173" ref="index"/>
-    <file name="nomq_index.css" crc="394668085" ref="index"/>
+    <file name="index.css" crc="3828575097" ref="index"/>
+    <file name="nomq_index.css" crc="352449297" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:check-mail"/>
@@ -15,9 +15,6 @@
     <file name="museconfig.js" crc="144853533" ref="index:check-mail"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index:check-mail"/>
     <file name="webpro.js" crc="416662029" ref="index"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
-    <file name="touchswipe.js" crc="432264157" ref="index"/>
     <file name="form_check.php" crc="4110044762" ref="index"/>
     <file name="form_throttle.php" crc="22190333" ref="index"/>
     <file name="form_process.php" crc="257545537" ref="index"/>
@@ -26,20 +23,14 @@
     <file name="require.js" crc="3861931657" ref="index:check-mail"/>
   </folder>
   <folder name="images">
-    <file name="1-crop-u9755.jpg" crc="141145804" seo="true" ref="index">
+    <file name="1.jpg" crc="346164498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:check-mail"/>
-    <file name="2-crop-u10023.jpg" crc="116213097" seo="true" ref="index">
+    <file name="3.jpg" crc="322448700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-crop-u10093.jpg" crc="3806877116" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4-crop-u10163.jpg" crc="3805092971" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="white hrc.png" crc="3899285252" seo="true" ref="index:check-mail">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -64,6 +55,7 @@
       <caption webpage="check-mail" alt=""/>
       <caption webpage="check-mail" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index:check-mail"/>
     <file name="u1293.png" crc="306730250" ref="index"/>
     <file name="u1293-r.png" crc="3777639741" ref="index"/>
     <file name="u1293-fs.png" crc="306730250" ref="index"/>
@@ -111,34 +103,16 @@
     <file name="stack.png" crc="172956122" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u97552.jpg" crc="308650485" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2-crop-u100232.jpg" crc="514284393" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3-crop-u100932.jpg" crc="3991430335" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4-crop-u101632.jpg" crc="3808719480" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u12932.png" crc="306730250" ref="index"/>
     <file name="u1293-r2.png" crc="3777639741" ref="index"/>
     <file name="u1293-fs2.png" crc="306730250" ref="index"/>
     <file name="stack685x514.png" crc="4025376465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u97553.jpg" crc="3880610828" seo="true" ref="index">
+    <file name="1232x131.jpg" crc="4138255555" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u100233.jpg" crc="361562843" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3-crop-u100933.jpg" crc="275432884" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4-crop-u101633.jpg" crc="123734735" seo="true" ref="index">
+    <file name="3236x133.jpg" crc="497206566" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u12933.png" crc="306730250" ref="index"/>
@@ -150,16 +124,10 @@
     <file name="stack621x465.png" crc="348044397" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u97554.jpg" crc="4256671163" seo="true" ref="index">
+    <file name="1210x118.jpg" crc="385795153" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u100234.jpg" crc="90333167" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3-crop-u100934.jpg" crc="486425019" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4-crop-u101634.jpg" crc="267188183" seo="true" ref="index">
+    <file name="3214x120.jpg" crc="413830396" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u12934.png" crc="306730250" ref="index"/>
@@ -168,28 +136,22 @@
     <file name="sach370x216.png" crc="4109239335" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u97555.jpg" crc="4253851029" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2-crop-u100235.jpg" crc="3974614770" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3-crop-u100935.jpg" crc="3835398234" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4-crop-u101635.jpg" crc="3872018257" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="stack530x397.png" crc="3997447834" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u12935.png" crc="306730250" ref="index"/>
     <file name="u1293-r5.png" crc="3777639741" ref="index"/>
     <file name="u1293-fs5.png" crc="306730250" ref="index"/>
+    <file name="1179x101.jpg" crc="122115657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3182x103.jpg" crc="426108867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="sach289x169.png" crc="3862310797" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="124551552" seo="true" mt="1517740182476" redirect="true"/>
-  <file name="check-mail.html" crc="4154545629" seo="true" mt="1517736200291" redirect="true"/>
+  <file name="index.html" crc="3876297181" seo="true" mt="1517754298050" redirect="true"/>
+  <file name="check-mail.html" crc="3950044870" seo="true" mt="1517736200291" redirect="true"/>
 </manifest>
